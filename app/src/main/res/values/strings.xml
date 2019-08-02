@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">TikiTaka Tickets </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_koko">KokoActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="app_nme">Intro Slider</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">TikiTaka </string>
+    <string name="slide_1_desc">Welcome To TikiTaka Tickets.
+        Start by Searching Events.</string>
+
+    <string name="slide_2_title">All Events in One Place</string>
+    <string name="slide_2_desc">Book  tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Easy Payment</string>
+    <string name="slide_3_desc">Buy your tickets via lipa na Mpesa</string>
+
+    <string name="slide_4_title">Enjoy Your Event </string>
+    <string name="slide_4_desc">Enjoy and also dont forget to rate the Event provider</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or">or</string>
+
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <!--
+    <string name="backdrop_title">Events</string>
+    <string name="backdrop_subtitle">This months top 20 Events Organisers</string>
+-->
+
+</resources>

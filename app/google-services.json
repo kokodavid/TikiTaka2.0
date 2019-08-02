@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914731881844",
+    "firebase_url": "https://tikitaka2-85c03.firebaseio.com",
+    "project_id": "tikitaka2-85c03",
+    "storage_bucket": "tikitaka2-85c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914731881844:android:b5d4d8447c25becf",
+        "android_client_info": {
+          "package_name": "com.david.tikitaka2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914731881844-9rra7d17itjnn3tt0gbntaignetqjra4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.david.tikitaka2",
+            "certificate_hash": "9f35283a2c188858890567bd04541930051a16de"
+          }
+        },
+        {
+          "client_id": "914731881844-nciaramqg9t3c2qdr3te3lp223m7pqjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBmz8jt-kv0ZcAclPjulRyDsJrWQrMj8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914731881844-nciaramqg9t3c2qdr3te3lp223m7pqjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
