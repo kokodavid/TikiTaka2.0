@@ -42,13 +42,6 @@
     <string name="play_again">Play Again</string>
 
 
-    <string name="forgot_password">Forgot Password?</string>
-    <string name="password">Password</string>
-    <string name="email">Email</string>
-    <string name="confirm_password">Confirm Password</string>
-    <string name="login">Login</string>
-    <string name="sign_up">Sign up</string>
-    <string name="or">or</string>
 
 
     <string name="action_add_favourite">Add to Favourites</string>
@@ -57,5 +50,12 @@
     <string name="backdrop_title">Events</string>
     <string name="backdrop_subtitle">This months top 20 Events Organisers</string>
 -->
+
+    //Bottom Navigation String//
+
+    <string name="title_shop">Shop</string>
+    <string name="title_gifts">Gifts</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
 
 </resources>
