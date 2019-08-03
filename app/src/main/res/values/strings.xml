@@ -42,8 +42,6 @@
     <string name="play_again">Play Again</string>
 
 
-
-
     <string name="action_add_favourite">Add to Favourites</string>
     <string name="action_play_next">Play Next</string>
     <!--
@@ -53,9 +51,9 @@
 
     //Bottom Navigation String//
 
-    <string name="title_shop">Shop</string>
-    <string name="title_gifts">Gifts</string>
-    <string name="title_cart">Cart</string>
+    <string name="item_1">Events</string>
+    <string name="item_2">Saved Events</string>
+    <string name="item_3">Camera</string>
     <string name="title_profile">Profile</string>
 
 </resources>
