@@ -44,16 +44,34 @@
 
     <string name="action_add_favourite">Add to Favourites</string>
     <string name="action_play_next">Play Next</string>
-    <!--
-    <string name="backdrop_title">Events</string>
-    <string name="backdrop_subtitle">This months top 20 Events Organisers</string>
--->
+
 
     //Bottom Navigation String//
 
     <string name="item_1">Events</string>
-    <string name="item_2">Saved Events</string>
-    <string name="item_3">Camera</string>
+    <string name="item_2">Local Events</string>
+    <string name="item_3">Gallery</string>
     <string name="title_profile">Profile</string>
+
+
+    <string name="information_demo_one">This fragment shows xml configuration of FabRevealMenu with horizontal orientation. Play with different layout attributes to customize the experience</string>
+    <string name="information_demo_three">This fragment shows dynamic configuration of FabRevealMenu with dynamic menu item creation.</string>
+
+    <string name="show_title">Show Title</string>
+    <string name="show_double">Show More Items</string>
+    <string name="show_overlay">Show Overlay</string>
+    <string name="change_direction">Change Direction :</string>
+
+    <string name="message">Description</string>
+    <string name="messag">Event Name</string>
+    <string name="send">Create</string>
+    <string name="email">Date</string>
+    <string name="name"> Time</string>
+    <string name="mobno">Amount</string>
+    <string name="reg_no">Admin Id</string>
+
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+
 
 </resources>

@@ -6,7 +6,6 @@
         android:icon="@drawable/baseline_save_alt_white_24"
         app:showAsAction="never"
         app:actionViewClass="android.support.v7.widget.SearchView"
-        android:title="Save">
-    </item>
+        android:title="Save"></item>
 
 </menu>

@@ -6,7 +6,6 @@
         android:id="@+id/photo"
         android:icon="@drawable/baseline_camera_alt_white_18dp"
         app:showAsAction="always"
-        android:title="Photo">
-    </item>
+        android:title="Photo"></item>
 
 </menu>

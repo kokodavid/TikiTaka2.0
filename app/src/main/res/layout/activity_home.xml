@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    android:id="@+id/activity_main"
+<RelativeLayout android:id="@+id/activity_main"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -8,22 +7,37 @@
     android:layout_height="match_parent"
     tools:context=".HomeActivity">
 
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="695dp"
+        android:layout_above="@+id/navigation"
+        android:layout_alignTop="@+id/frame_layout"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="-20dp"
+        android:background="@drawable/source" />
+
+
     <FrameLayout
         android:id="@+id/frame_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="677dp"
         android:layout_above="@+id/navigation"
-        android:animateLayoutChanges="true">
+        android:layout_marginBottom="-2dp"
+        android:animateLayoutChanges="true"></FrameLayout>
 
-    </FrameLayout>
+    <include layout="@layout/content_main" />
+
 
     <android.support.design.widget.BottomNavigationView
         android:id="@+id/navigation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:background="@color/bg_screen3"
+        android:background="@color/black"
         app:itemIconTint="@color/album_title"
-        app:itemTextColor="@color/black"
-        app:menu="@menu/bottom_navigation"/>
+        app:itemTextColor="@color/white"
+        app:menu="@menu/bottom_navigation" />
+
+
 </RelativeLayout>

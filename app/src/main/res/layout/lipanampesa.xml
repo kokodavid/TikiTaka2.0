@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/centre_background"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="100dp"
+        android:layout_marginTop="50dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="130dp"
+        android:foregroundGravity="center"
+        app:srcCompat="@drawable/mpesa" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginBottom="330dp"
+        android:text="Phone number" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginBottom="273dp"
+        android:text="Amount" />
+
+
+    <EditText
+        android:id="@+id/number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="315dp"
+        android:focusableInTouchMode="true"
+        android:ems="10"
+        android:hint="0770070078"
+        android:inputType="number" />
+
+
+    <EditText
+        android:id="@+id/amount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="120dp"
+        android:layout_marginBottom="253dp"
+        android:ems="10"
+        android:hint="Enter Amount"
+        android:inputType="number" />
+
+
+    <Button
+        android:id="@+id/Donationbutton"
+        android:layout_width="121dp"
+        android:layout_height="58dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="123dp"
+        android:layout_marginTop="350dp"
+        android:layout_marginBottom="141dp"
+        android:background="@drawable/roundbutton"
+        android:text="Buy Ticket"
+        tools:layout_editor_absoluteX="120dp"
+        tools:layout_editor_absoluteY="205dp" />
+
+
+</RelativeLayout>
